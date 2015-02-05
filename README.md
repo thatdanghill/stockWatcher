@@ -1,1 +1,2 @@
-# mergeconflicts
+# stockWatcher
+Lab 2
